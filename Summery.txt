@@ -1,0 +1,11 @@
+The Coffee Shop Sales Analytics Dashboard provides an interactive overview of sales performance, revenue trends, and product insights for a coffee retail business. The dashboard helps analyze key business metrics such as total revenue, number of products sold, total orders, and average unit price, enabling better understanding of overall sales performance.
+
+The dashboard shows that the coffee shop generated $698,812 in total revenue from 149,116 orders, with 214,470 products sold across 80 different products. The average unit price is $3.4, indicating a balanced pricing strategy across the product range.
+
+The Revenue by Months chart highlights a steady growth in revenue from January to June, showing an upward sales trend over time. This suggests increasing customer demand and improved business performance as the months progress.
+
+The Sales by Time analysis indicates that the morning period contributes the highest sales (55%), followed by the afternoon (36%), while night sales account for only 9%. This insight suggests that most customers prefer purchasing coffee during morning hours.
+
+The Top Products chart identifies the best-performing items such as Dark Chocolate, Cappuccino, and Latte, which contribute significantly to total revenue. Understanding top products helps businesses focus on popular items and optimize inventory.
+
+The Sales by Day visualization reveals that Friday and Monday generate the highest sales, while Saturday records the lowest, indicating variations in customer purchasing behavior during the week.
